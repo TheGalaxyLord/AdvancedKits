@@ -433,4 +433,42 @@ Hulk:
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
   - "Kit-PvP"
+Pro:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 276
+    damage: 0
+    count: 1
+  - id: 364
+    damage: 0
+    count: 1
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 310
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 311
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 312
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 313
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  - "tell {player} You have the Ranger Kit! Strategy: Dodge ranged attacks and then attack."
 ...
