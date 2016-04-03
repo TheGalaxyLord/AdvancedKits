@@ -175,6 +175,7 @@ Knight:
   #optional. you can remove this if you don't want boots
   boots:
     id: 309
+  money: 50
   #cool down time.
   #when a player gets this kit, he will not be able to get this again until the cool down ends
   #this is optional. you can remove this if you don't want a cooldown
@@ -308,6 +309,12 @@ Ghost:
   #optional. you can remove this if you don't want any command to be executed
   commands:
   - "tell {player} You have the Ghost Kit! Strategy: Stay hidden and hit players from the back with your knife."
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - name: "invisibility"
+    seconds: 99999
+    amplifier: 1
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
   - "Kit-PvP"
