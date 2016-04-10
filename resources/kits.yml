@@ -59,7 +59,7 @@ Ranger:
     amplifier: 1
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
 Viking:
   #items. name and enchantments are optional.
   #if damage is not specified, 0 will be used
@@ -104,7 +104,7 @@ Viking:
   - "tell {player} You have the Viking Kit! Strategy: Activate rage mode (Hold magma cream) when you're low on health."
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
 Gunner:
   #items. name and enchantments are optional.
   #if damage is not specified, 0 will be used
@@ -146,7 +146,7 @@ Gunner:
   - "tell {player} You have the Gunner Kit! Strategy: Shoot people in the face. Tip: Press the Fish button to shoot."
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
 Knight:
   #items. name and enchantments are optional.
   #if damage is not specified, 0 will be used
@@ -189,7 +189,7 @@ Knight:
   - "tell {player} You have the Knight Kit! Strategy: Dish out loads of damage!"
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
 Heavy:
   #items. name and enchantments are optional.
   #if damage is not specified, 0 will be used
@@ -240,7 +240,7 @@ Heavy:
     amplifier: 128
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
 EnderLeaper:
   #items. name and enchantments are optional.
   #if damage is not specified, 0 will be used
@@ -286,7 +286,7 @@ EnderLeaper:
   - "tell {player} You have the EnderLeaper Kit! Strategy: Leap and Teleport around! Tip: Press and hold your axe to leap (you can use it twice in a row) and press and hold the snowballs to teleport around!"
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
   #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
   users:
   - "MikeSlayerTGL"
@@ -337,7 +337,7 @@ Ghost:
     amplifier: 1
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
   #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
   users:
   - "MikeSlayerTGL"
@@ -400,7 +400,7 @@ Mage:
   - "tell {player} You have the Mage kit! Strategy: Deal loads of ranged damage, but avoid strong melee fighters getting close."
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
   #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
   users:
   - "MikeSlayerTGL"
@@ -463,7 +463,7 @@ Priest:
   - "tell {player} You have the Priest Kit! Strategy: Deal decent damage and heal yourself!"
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
   #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
   users:
   - "MikeSlayerTGL"
@@ -490,7 +490,7 @@ Hulk:
   items:
   - id: 364
     damage: 0
-    count: 1
+    count: 32
   money: 50
   #cool down time.
   #when a player gets this kit, he will not be able to get this again until the cool down ends
@@ -517,7 +517,7 @@ Hulk:
     amplifier: 2
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
 Pro:
   #items. name and enchantments are optional.
   #if damage is not specified, 0 will be used
@@ -551,6 +551,9 @@ Pro:
   cooldown:
     hours: 0
     minutes: 0
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "ClanBattles"
 PvP:
   #items. name and enchantments are optional.
   #if damage is not specified, 0 will be used
@@ -586,9 +589,9 @@ Demigod:
   #if damage is not specified, 0 will be used
   #if count is not specified, 1 will be used
   items:
-  - id: 286
+  - id: 279
     damage: 0
-    count: 10
+    count: 1
     name: "Demigod Battleaxe"
     enchantment:
       #name: level
@@ -639,7 +642,7 @@ Demigod:
     amplifier: 4
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
-  - "Kit-PvP"
+  - "KitPvP"
   #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
   users:
   - "MikeSlayerTGL"
