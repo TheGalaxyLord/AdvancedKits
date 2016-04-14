@@ -21,6 +21,10 @@ Ranger:
   - id: 262
     damage: 0
     count: 64
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -75,6 +79,10 @@ Viking:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -117,6 +125,10 @@ Gunner:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -159,6 +171,10 @@ Knight:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -201,6 +217,10 @@ Heavy:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -257,6 +277,10 @@ EnderLeaper:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -322,6 +346,10 @@ Ghost:
   - id: 318
     damage: 0
     count: 3
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #cool down time.
   #when a player gets this kit, he will not be able to get this again until the cool down ends
   #this is optional. you can remove this if you don't want a cooldown
@@ -370,6 +398,10 @@ Mage:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -434,6 +466,10 @@ Priest:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -492,6 +528,10 @@ Hulk:
   - id: 364
     damage: 0
     count: 32
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   money: 50
   #cool down time.
   #when a player gets this kit, he will not be able to get this again until the cool down ends
@@ -530,6 +570,10 @@ Pro:
   - id: 364
     damage: 0
     count: 1
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -566,6 +610,10 @@ PvP:
   - id: 364
     damage: 0
     count: 64
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -608,6 +656,10 @@ Demigod:
   - id: 262
     damage: 0
     count: 64
+  - id: 351
+    damage: 0
+    count: 9999
+    name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
   helmet:
@@ -644,24 +696,4 @@ Demigod:
   #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
   worlds:
   - "KitPvP"
-  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
-  users:
-  - "MikeSlayerTGL"
-  - "DanPlayz"
-  - "xxendergemxx"
-  - "Slikdude"
-  - "ichigo_kurosaki"
-  - "RanaMCPE"
-  - "DuckInTheHouse12"
-  - "ItzBluestone"
-  - "TheDiamondMaster"
-  - "Agent_47__"
-  - "RealTheMCPEGamer"
-  - "FancyZombie20"
-  - "Willionaire"
-  - "Mooshi"
-  - "xNeroMC"
-  - "VilenQG"
-  - "SimpleStrafesQG"
-  - "abdulnour99"
 ...
