@@ -23,7 +23,7 @@ Ranger:
     count: 64
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -81,7 +81,7 @@ Viking:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -127,7 +127,7 @@ Gunner:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -173,7 +173,7 @@ Knight:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -219,7 +219,7 @@ Heavy:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -279,7 +279,7 @@ EnderLeaper:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -348,7 +348,7 @@ Ghost:
     count: 3
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #cool down time.
   #when a player gets this kit, he will not be able to get this again until the cool down ends
@@ -400,7 +400,7 @@ Mage:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -468,7 +468,7 @@ Priest:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -530,7 +530,7 @@ Hulk:
     count: 32
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   money: 50
   #cool down time.
@@ -572,7 +572,7 @@ Pro:
     count: 1
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -612,7 +612,7 @@ PvP:
     count: 64
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
@@ -658,7 +658,7 @@ Demigod:
     count: 64
   - id: 351
     damage: 0
-    count: 9999
+    count: 2368
     name: "Sorry, am I bothering you?"
   #helmet
   #optional. you can remove this if you don't want a helmet
